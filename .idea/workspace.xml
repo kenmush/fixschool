@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0f717f5-4213-4831-8a84-5fc63deed24b" name="Default Changelist" comment="" />
+    <list default="true" id="f0f717f5-4213-4831-8a84-5fc63deed24b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/config/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/Studentfee.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Studentfee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/promises" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/promises" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/psr7" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/psr7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/moneyphp/money" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/moneyphp/money" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/monolog/monolog" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/monolog/monolog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/omnipay/common" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/omnipay/common" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/omnipay/paypal" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/omnipay/paypal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/omnipay/stripe" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/omnipay/stripe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/php-http/httplug" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/php-http/httplug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/php-http/message-factory" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/php-http/message-factory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/php-http/promise" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/php-http/promise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/psr/cache" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/psr/cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/psr/http-client" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/psr/http-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/psr/http-message" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/psr/http-message" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/psr/log" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/psr/log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/deprecation-contracts" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/deprecation-contracts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/http-foundation" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/http-foundation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-mbstring" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-mbstring" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-php80" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-php80" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/print/printFeesByGroupArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/print/printFeesByGroupArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/student/printFeesByGroupArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/student/printFeesByGroupArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/studentfee/reportByName.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/studentfee/reportByName.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/studentfee/studentAddfee.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/studentfee/studentAddfee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/user/fees/printFeesByGroupArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/user/fees/printFeesByGroupArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1626769448.1.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +49,7 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="PhpDebugGeneral" show_user_defined_constants="false" />
   <component name="PhpServers">
     <servers>
       <server host="localhost/kia" id="fc700f73-4a02-4797-a111-48e0856c70d9" name="Unnamed" />
@@ -32,15 +61,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/models" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\kia\application\models" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" server_name="Unnamed">
@@ -55,7 +92,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626768109691</updated>
-      <workItem from="1626768112212" duration="1322000" />
+      <workItem from="1626768112212" duration="17505000" />
+      <workItem from="1626806031757" duration="43000" />
+      <workItem from="1626853795661" duration="3497000" />
     </task>
     <servers />
   </component>
@@ -65,10 +104,45 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
+          <line>530</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
+          <line>447</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
+          <line>591</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
+          <line>722</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
+          <line>555</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
-          <line>421</line>
-          <option name="timeStamp" value="1" />
+          <line>441</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
+          <line>739</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
+          <line>738</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

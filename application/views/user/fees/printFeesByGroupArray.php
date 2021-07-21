@@ -441,6 +441,7 @@ echo $this->customlib->getFullName($feearray[0]->firstname, $feearray[0]->middle
                                                         echo ($currency_symbol . number_format($total_balance_amount, 2, '.', ''));
                                                         ?></b></td>  <td class="text text-right"></td>
                                             </tr>
+
                                         </tbody>
                                     </table>
                                     <?php
