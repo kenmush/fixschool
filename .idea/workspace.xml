@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0f717f5-4213-4831-8a84-5fc63deed24b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/config/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Studentfee.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Studentfee.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/promises" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/promises" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/psr7" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/psr7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/moneyphp/money" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/moneyphp/money" afterDir="false" />
@@ -23,12 +21,6 @@
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/http-foundation" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/http-foundation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-mbstring" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-mbstring" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-php80" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-php80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/print/printFeesByGroupArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/print/printFeesByGroupArray.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/student/printFeesByGroupArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/student/printFeesByGroupArray.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/studentfee/reportByName.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/studentfee/reportByName.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/studentfee/studentAddfee.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/studentfee/studentAddfee.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/user/fees/printFeesByGroupArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/user/fees/printFeesByGroupArray.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1626769448.1.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +86,8 @@
       <updated>1626768109691</updated>
       <workItem from="1626768112212" duration="17505000" />
       <workItem from="1626806031757" duration="43000" />
-      <workItem from="1626853795661" duration="3497000" />
+      <workItem from="1626853795661" duration="4419000" />
+      <workItem from="1627117877245" duration="357000" />
     </task>
     <servers />
   </component>
@@ -129,17 +122,17 @@
           <line>555</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
+        <line-breakpoint type="php">
           <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
           <line>441</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
+        <line-breakpoint type="php">
           <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
           <line>739</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
+        <line-breakpoint type="php">
           <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
           <line>738</line>
           <option name="timeStamp" value="23" />

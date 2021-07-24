@@ -900,6 +900,7 @@ class Admin extends Admin_Controller
 
      public function dtstudentlist($search_text)
     {
+        $this->load->library('datatables');
        if($search_text==="0"){           
             $search_text="";
         }
