@@ -75,7 +75,7 @@ if ($this->config->item('SSLK') == "") {
     ?>
  <div class="topaleart">
     <div class="slidealert">
-    <div class="alert alert-dismissible topaleart-inside"> 
+    <div class="alert alert-dismissible topaleart-inside">
    <p class="palert"><strong>Alert!</strong> You are using unregistered version of Smart School. Please <a  href="#" class="purchasemodal">click here</a> to register your purchase code for Smart School.</p>
 </div></div>
 </div>
@@ -83,7 +83,7 @@ if ($this->config->item('SSLK') == "") {
 }
 
 
-?> 
+?>
 <script>
 
     function collapseSidebar() {

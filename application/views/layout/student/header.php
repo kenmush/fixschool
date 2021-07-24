@@ -88,7 +88,7 @@ if ($this->config->item('SSLK') == "") {
 }
 
 
-?> 
+?>
         <script>
 
     function collapseSidebar() {
