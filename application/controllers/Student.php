@@ -2087,6 +2087,7 @@ class Student extends Admin_Controller
 
     public function dtstudentlist()
     {
+        $this->load->library('datatables');
         $currency_symbol = $this->customlib->getSchoolCurrencyFormat();
         $class           = $this->input->post('class_id');
         $section         = $this->input->post('section_id');
