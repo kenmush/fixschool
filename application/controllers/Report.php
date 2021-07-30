@@ -1775,6 +1775,7 @@ class Report extends Admin_Controller
 
     public function searchreportvalidation()
     {
+        $this->load->library('datatables');
 
         $this->form_validation->set_rules('search_type', $this->lang->line('search') . " " . $this->lang->line('type'), 'trim|required|xss_clean');
 
