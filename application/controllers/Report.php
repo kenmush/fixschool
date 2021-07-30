@@ -1804,6 +1804,7 @@ class Report extends Admin_Controller
 
     public function dtadmissionreport()
     {
+        $this->load->library('datatables');
         $sch_setting = $this->sch_setting_detail;
         $searchterm  = '';
         $class       = $this->class_model->get();
