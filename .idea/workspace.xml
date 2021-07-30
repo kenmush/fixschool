@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f717f5-4213-4831-8a84-5fc63deed24b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/Report.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Report.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/Site.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Site.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/promises" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/promises" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/psr7" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/psr7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/moneyphp/money" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/moneyphp/money" afterDir="false" />
@@ -20,6 +23,10 @@
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/http-foundation" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/http-foundation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-mbstring" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-mbstring" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-php80" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-php80" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627124445.2703.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627124446.308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627124649.5299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627124650.2431.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +47,11 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="PhpDebugGeneral" show_user_defined_constants="false" />
+  <component name="PhpDebugGeneral" listening_started="true" show_user_defined_constants="false" />
   <component name="PhpServers">
     <servers>
       <server host="localhost/kia" id="fc700f73-4a02-4797-a111-48e0856c70d9" name="Unnamed" />
+      <server host="localhost" id="676808b6-b8e7-4e64-b3dd-69878184cb9c" name="localhost" />
     </servers>
   </component>
   <component name="ProjectId" id="1vZSQvRsKMOnabVHoZq9q2pK96D" />
@@ -88,6 +96,7 @@
       <workItem from="1626853795661" duration="4419000" />
       <workItem from="1627117877245" duration="357000" />
       <workItem from="1627124241573" duration="946000" />
+      <workItem from="1627627239520" duration="1865000" />
     </task>
     <servers />
   </component>
@@ -136,6 +145,16 @@
           <url>file://$PROJECT_DIR$/application/controllers/Studentfee.php</url>
           <line>738</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/libraries/Customlib.php</url>
+          <line>1176</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/libraries/Customlib.php</url>
+          <line>1167</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -44,7 +44,6 @@ class Site extends Public_Controller
 
     public function login()
     {
-
         $app_name = $this->setting_model->get();
         $app_name = $app_name[0]['name'];
 
@@ -126,7 +125,7 @@ class Site extends Public_Controller
 
                     $role      = $this->customlib->getStaffRole();
                     $role_name = json_decode($role)->name;
-                    $this->customlib->setUserLog($this->input->post('username'), $role_name);
+//                    $this->customlib->setUserLog($this->input->post('username'), $role_name);
 
                     if (isset($_SESSION['redirect_to'])) {
                         redirect($_SESSION['redirect_to']);
