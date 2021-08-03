@@ -2516,6 +2516,7 @@ class Report extends Admin_Controller
 
     public function dtincomegroupreport()
     {
+        $this->load->libraryg('datatables');
         $search_type = $this->input->post('search_type');
         $date_from   = $this->input->post('date_from');
         $date_to     = $this->input->post('date_to');
