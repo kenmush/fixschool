@@ -344,6 +344,7 @@ class Site extends Public_Controller
         if ($this->auth->user_logged_in()) {
             $this->auth->user_redirect();
         }
+
         $data               = array();
         $data['title']      = 'Login';
         $school             = $this->setting_model->get();
@@ -368,6 +369,7 @@ class Site extends Public_Controller
                 'password' => $this->input->post('password'),
             );
             $data['captcha_image'] = $this->captchalib->generate_captcha()['image'];
+
             $login_details         = $this->user_model->checkLogin($login_post);
 
             if (isset($login_details) && !empty($login_details)) {
@@ -377,6 +379,8 @@ class Site extends Public_Controller
                         $result = $this->user_model->read_user_information($user->id);
                     } else if ($user->role == "parent") {
                         $result = $this->user_model->checkLoginParent($login_post);
+
+
                     }
 
                     if ($result != false) {
@@ -418,7 +422,7 @@ class Site extends Public_Controller
                             'is_rtl'          => $setting_result[0]['is_rtl'],
                             'theme'           => $setting_result[0]['theme'],
                             'image'           =>  $image,
-                            'gender'          => $result[0]->gender,
+                            'gender'          => "",
                         );
                         if($session_data['is_rtl'] == "disabled"){
 
@@ -432,7 +436,7 @@ class Site extends Public_Controller
 
                         $this->session->set_userdata('student', $session_data);
                         if ($result[0]->role == "parent") {
-                            $this->customlib->setUserLog($result[0]->username, $result[0]->role);
+//                            $this->customlib->setUserLog($result[0]->username, $result[0]->role);
                         }
                         redirect('user/user/choose');
                     } else {
