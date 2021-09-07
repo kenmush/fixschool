@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0f717f5-4213-4831-8a84-5fc63deed24b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Site.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Site.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/libraries/Customsms.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/libraries/Customsms.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/promises" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/promises" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/psr7" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/guzzlehttp/psr7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/moneyphp/money" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/moneyphp/money" afterDir="false" />
@@ -26,18 +25,6 @@
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/http-foundation" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/http-foundation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-mbstring" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-mbstring" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-php80" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/symfony/polyfill-php80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978545.0101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978548.5679.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978588.8222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978589.6395.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978591.9289.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978592.3875.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978629.6189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978630.063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978659.1223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978659.859.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978689.0765.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/captcha_images/1627978689.6714.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
